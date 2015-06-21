@@ -20,6 +20,6 @@ Mean of all datapoints for all subjects over all std() / mean() activities prese
 * Variable
   * The name xyz of the variable
 * mean_of_variable
-  * The mean of the observations of that variable across the data set
+  * The mean of the observations of that variable grouped by activity and subject across the data set
 
 
